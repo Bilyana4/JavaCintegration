@@ -9,7 +9,7 @@
 
 *Бележка: Всички .java и .c файлове са написани и съхранени в Notepad версия 11.2507.26.0 . За изпълнението на всички действия, свързани с компилиране, построяване (build), свързване (link) и изпълнение на програмата, се използва Command Prompt.*
 
-<img width="920" height="900" alt="Main class (1)" src="https://github.com/user-attachments/assets/d629f958-af3f-421d-898e-c4067fddda35" />
+<img width="520" height="500" alt="Main class (1)" src="https://github.com/user-attachments/assets/d629f958-af3f-421d-898e-c4067fddda35" />
 
 1. Чрез командата „javac“ се компилират изходните файлове, които съдържат декларации на Java модулитеим, в .class файлове, които се изпълняват от Java VM.
     javac Main.java FileOperations.java NumberOperations.java LibOperations.java
@@ -35,7 +35,7 @@ JavafileName се явява главният метод (входната то�
 
 *Note: All .java and .c files are written and stored in Notepad version 11.2507.26.0 . Command Prompt is used to perform all actions related to compiling, building, linking and running the program.*
 
-<img width="1920" height="1080" alt="Main class (1)" src="https://github.com/user-attachments/assets/d629f958-af3f-421d-898e-c4067fddda35" />
+<img width="520" height="500" alt="Main class (1)" src="https://github.com/user-attachments/assets/d629f958-af3f-421d-898e-c4067fddda35" />
 
 1. The "javac" command compiles the source files, which contain declarations of Java modules, into .class files, which are executed by the Java VM.
 javac Main.java FileOperations.java NumberOperations.java LibOperations.java
